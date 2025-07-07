@@ -41,14 +41,6 @@ A **feature-rich social networking platform** built with the **MERN stack** and 
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots or screen recordings here (optional)_  
-Example:
-![Feed Screenshot](./assets/feed.png)
-
----
-
 ## 🛠️ Getting Started
 
 ### 🔧 Prerequisites
